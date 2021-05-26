@@ -1,1 +1,1 @@
-# Sentiment-and-Emotion-Analysis
+This is a sentiment analysis model which will allow us to categorize words based on their sentiments, that is whether they are positive, negative and also the magnitude of it . It also extracts the emotions out of the inputed text and shows it in the form of a bar graph.
